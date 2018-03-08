@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Just Java</string>
+    <string name="app_name">Solo Java</string>
     <string name="thank_you">Gracias!</string>
     <string name="toppings">Ingredientes</string>
     <string name="price">Precio</string>
@@ -13,7 +13,8 @@
     <string name="order_summary_whipped_cream">Crema Batida? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
     <string name="order_summary_name">Nombre:  <xliff:g id="name" example="Amy">%s</xliff:g></string>
     <string name="order_summary_chocolate">Chocolate? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
-    <string name="order_summary_quantity">Cantidad <xliff:g id="quantity" example="1">%d</xliff:g></string>
+    <string name="order_summary_quantity">Cantidad: <xliff:g id="quantity" example="1">%d</xliff:g></string>
     <string name="order_summary_price">Total: <xliff:g id="price" example="$5">%s</xliff:g></string>
     <string name="order_summary_email_subject">Solo java para <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="_1">\u20ac5</string>
 </resources>

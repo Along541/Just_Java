@@ -1,7 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Just Java</string>
     <string name="price">Price</string>
-    <string name="_1" translatable="false">$5</string>
+    <string name="_1">$5</string>
     <string name="order">Order</string>
     <string name="quantity">quantity</string>
     <string name="order_summary">Order Summary</string>
@@ -27,7 +27,7 @@
 
     <string name="order_summary_email_subject">Just Java order for<xliff:g id="name" example="Amy">%s</xliff:g></string>
 
-    <string name="order_summary_quantity"> <xliff:g id="quantity" example="1">%d</xliff:g></string>
+    <string name="order_summary_quantity">Quantity<xliff:g id="quantity" example="1">%d</xliff:g></string>
 
     <string name="__" translatable="false">+</string>
 
